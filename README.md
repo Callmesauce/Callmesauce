@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I think I am too kind**
 
-<a align="left" href='https://www.youtube.com/@zeusmiguelorilla7472/videos?view=0&sort=dd&shelf_id=0'><h3>Click to Watch my Project Demo Videos</h3></a>
+<a align="left" href="https://www.youtube.com/@zeusmiguelorilla7472/videos?view=0&sort=dd&shelf_id=0" target="_blank" rel="noreferrer"><h3>Click to Watch my Project Demo Videos</h3></a>
 <p align="left">
 </p>
 
