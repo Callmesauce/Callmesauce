@@ -23,7 +23,7 @@
 
 
 <p align="left">
-  <a href="https://www.youtube.com/@zeusmiguelorilla7472/videos" target="_blank" rel="noreferrer"><h3>Click to Watch my Project Demo Videos</h3></a>
+  <a href="https://www.youtube.com/@zeusmiguelorilla7472/videos" target="_blank" rel="noreferrer">Click to Watch my Project Demo Videos</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
