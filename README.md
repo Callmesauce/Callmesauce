@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on my personal project **Library Management System**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Framework: Laravel** **Language: Python/Django**
 
 - 💬 Ask me about **Web-development(PHP/JAVASCRIPT)**
 
