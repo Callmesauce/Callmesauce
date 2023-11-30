@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **zeusorilla007@gmail.com**
 
-- ⚡ Fun fact **I think I am too kind**
+- ⚡ Fun fact **I think sometimes I am too kind**
 
 
 <p align="left">
