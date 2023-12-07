@@ -18,9 +18,7 @@
 - 💬 Ask me about **Web-development(PHP/JAVASCRIPT)**
 
 - 📫 How to reach me **zeusorilla007@gmail.com**
-- 📁 Portfolio Link <p align="left">
-  <a href="https://saucedcoder.github.io/React-Portfolio-Zeus/" target="_blank" rel="noreferrer">LIVE</a>
-</p>
+- 📁 Portfolio Link **https://saucedcoder.github.io/React-Portfolio-Zeus/**
 
 - ⚡ Fun fact **I think sometimes I am too kind**
 
