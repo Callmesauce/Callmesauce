@@ -20,7 +20,7 @@
 - 📫 How to reach me **zeusorilla007@gmail.com**
 - 📁 Portfolio Link ([Live at Github Pages](https://saucedcoder.github.io/React-Portfolio-Zeus/)). Status: In Progress 🧑‍💻
 
-- ⚡ Fun fact **I think sometimes I am too kind**
+- ⚡ Fun fact **I think sometimes I am too kind ☕**
 
 
 <p align="left">
